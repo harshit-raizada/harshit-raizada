@@ -1,7 +1,7 @@
 Hi, I’m Harshit Raizada
 I’m interested in Machine Learning & Data Science
-I’m currently working as an intern at Feynn Labs
-I’m looking to collaborate on projects related to machine learning
+I’m currently working as a Machine Learning Intern at Feynn Labs
+I’m looking forward to collaborate on projects related to machine learning
 You can reach out to me via www.linkedin.com/in/harshit-raizada
 
 <!---
