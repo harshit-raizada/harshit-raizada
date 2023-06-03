@@ -3,7 +3,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Machine Learning & Data Science Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Machine Learning & Data Science Engineer from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Data Scientist & Machine Learning Engineer in contributing to building ML models and performing statistical analysis.
 
 - :seedling: Exploring Technical Content Writing.
