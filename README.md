@@ -10,4 +10,4 @@ I am a Machine Learning & Data Science Engineer from India. <img src="https://me
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge]<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>)](https://www.linkedin.com/in/harshit-raizada/)
+- :mailbox:How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>)](https://www.linkedin.com/in/harshit-raizada/)
