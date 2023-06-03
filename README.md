@@ -11,4 +11,4 @@ I am a Machine Learning & Data Science Engineer from India. <img src="https://me
 - :zap: In my free time, I solve problems on Kaggle and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-raizada/)
-- :Check-out my profile: \href{https://www.linkedin.com}{\faLinkedinSquare}
+- :Check-out my profile: LinkedIn
