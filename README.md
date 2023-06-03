@@ -29,3 +29,8 @@ I am a Machine Learning & Data Science Engineer from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=harshit-raizada
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshit-raizada&theme=dark&background=000000)](https://git.io/streak-stats)
+
