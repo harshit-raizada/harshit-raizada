@@ -3,13 +3,13 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Machine Learning & Data Science Engineer from India. <img src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif" width="30">
+I am a Machine Learning & Data Science Engineer from India.
 - :telescope: I’m working as a Data Scientist & Machine Learning Engineer in contributing to building ML models and performing statistical analysis.
 
-- :seedling: Exploring Neural Networks.
+- :seedling: Currently Exploring Neural Networks.
 
 - :zap: In my free time, I solve problems on Kaggle and read tech articles.
+
 - ::mailbox: How to find me: 
-  - :bulb: [Discord Community](https://discord.gg/TtMT4AW)
-  - :office: [LinkedIn](https://www.linkedin.com/in/kanavbansal/)
-  - :speaker: [Youtube](https://www.youtube.com/c/thataiguy)
+  - :office: [LinkedIn](https://www.linkedin.com/in/harshit-raizada/)
+  - :speaker: [Kaggle](https://www.kaggle.com/harshitraizada)
