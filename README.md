@@ -3,7 +3,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Machine Learning & Data Science Engineer from India. <img src="https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12" width="30">
+I am a Machine Learning & Data Science Engineer from India. <img src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif" width="30">
 - :telescope: I’m working as a Data Scientist & Machine Learning Engineer in contributing to building ML models and performing statistical analysis.
 
 - :seedling: Exploring Technical Content Writing.
