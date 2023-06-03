@@ -10,7 +10,7 @@ I am a Machine Learning & Data Science Engineer from India.
 
 - :zap: In my free time, I solve problems on Kaggle and read tech articles.
 
-- ::mailbox: How to find me: 
+- :mailbox: How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/harshit-raizada/)
   - :speaker: [Kaggle](https://www.kaggle.com/harshitraizada)
 
