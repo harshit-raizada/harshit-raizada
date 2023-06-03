@@ -6,7 +6,7 @@
 I am a Machine Learning & Data Science Engineer from India.
 - :telescope: I’m working as a Data Scientist & Machine Learning Engineer in contributing to building ML models and performing statistical analysis.
 
-- :seedling: Currently Exploring Neural Networks.
+- :seedling: Currently exploring Neural Networks.
 
 - :zap: In my free time, I solve problems on Kaggle and read tech articles.
 
