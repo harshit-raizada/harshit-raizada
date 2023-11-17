@@ -3,10 +3,10 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm a Machine Learning & Data Science Engineer from India.
-- :telescope: I’m working as a Data Scientist & Machine Learning Engineer in contributing to building ML models and performing statistical analysis.
+I'm a Machine Learning and Data Science Engineer from India.
+- :telescope: I’m working as a Data Scientist and Machine Learning Engineer in contributing to building ML models and performing statistical analysis.
 
-- :seedling: Currently exploring Neural Networks.
+- :seedling: Currently exploring Deep Learning.
 
 - :zap: In my free time, I solve problems on Kaggle and read tech articles.
 
